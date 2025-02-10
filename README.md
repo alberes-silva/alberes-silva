@@ -1,10 +1,19 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9F5E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E6E6E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alberes+Silva;Trabalho+como+Analise+de+Sistema;Graduado+em+Analise+e+Desenvolvimento+de+Sistema;Estudante+de+Java+SQL+Spring+Boot+MongoDB+Azure+e+GCP;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E6E6E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alberes+Silva;Trabalho+como+Analista+de+Sistema;Graduado+em+Analise+e+Desenvolvimento+de+Sistema;Estudante+de+Java+SQL+Spring+Boot+MongoDB+Azure+e+GCP;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
+
+ ### Principais habilidades:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> Postgresql
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> AWS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> Google Cloud
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alberes-silva&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alberes-silva&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Alberes Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alberes-silva&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
       
@@ -13,7 +22,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alberes-silva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
     
-  ###GitHub Status
+  
   
   <div align="center">
       
@@ -23,17 +32,7 @@
    
   </div>
   
-   ### Principais habilidades:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> HTML
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> CSS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> JavaScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> Postgresql
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> AWS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> Google Cloud
-
-
- 
+   
 ### Estudando neste momento:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> Java
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /> Spring Boot
