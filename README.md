@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9F5E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E6E6E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alberes+Silva;Trabalho+como+Analista+de+Sistema;Graduado+em+Analise+e+Desenvolvimento+de+Sistema;Estudante+de+Java+SQL+Spring+Boot+MongoDB+Azure+e+GCP;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6E6E6E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alberes+Silva;Trabalho+como+Analista+de+Sistema;Graduado+em+Analise+e+Desenvolvimento+de+Sistema;Estudante+de+Java+SQL+Spring+Boot+MongoDB+Azure;Sejam+Bem+Vindos!+:%29)](https://git.io/typing-svg)
 
  ### Principais habilidades:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> HTML
